@@ -1,0 +1,104 @@
+{
+    "quiz_data": [
+        {
+            "question": "What is the time complexity of binary search?",
+            "options": [
+                "O(n)",
+                "O(log n)",
+                "O(n log n)",
+                "O(n^2)"
+            ],
+            "answer": "O(log n)"
+        },
+        {
+            "question": "What data structure is used for implementing recursion?",
+            "options": [
+                "Queue",
+                "Stack",
+                "Heap",
+                "Tree"
+            ],
+            "answer": "Stack"
+        },
+        {
+            "question": "Which sorting algorithm is the fastest for large datasets?",
+            "options": [
+                "Bubble Sort",
+                "Merge Sort",
+                "Quick Sort",
+                "Insertion Sort"
+            ],
+            "answer": "Quick Sort"
+        },
+        {
+            "question": "What is the worst-case time complexity of Quick Sort?",
+            "options": [
+                "O(n)",
+                "O(n log n)",
+                "O(n^2)",
+                "O(log n)"
+            ],
+            "answer": "O(n^2)"
+        },
+        {
+            "question": "Which data structure is used to implement a priority queue?",
+            "options": [
+                "Array",
+                "Linked List",
+                "Heap",
+                "Stack"
+            ],
+            "answer": "Heap"
+        },
+        {
+            "question": "What is the space complexity of Depth First Search (DFS)?",
+            "options": [
+                "O(V)",
+                "O(E)",
+                "O(V + E)",
+                "O(1)"
+            ],
+            "answer": "O(V)"
+        },
+        {
+            "question": "Which algorithm is used to find the shortest path in a graph?",
+            "options": [
+                "Kruskal's Algorithm",
+                "Prim's Algorithm",
+                "Dijkstra's Algorithm",
+                "Floyd-Warshall Algorithm"
+            ],
+            "answer": "Dijkstra's Algorithm"
+        },
+        {
+            "question": "What is the time complexity of inserting an element in a binary search tree?",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n log n)"
+            ],
+            "answer": "O(log n)"
+        },
+        {
+            "question": "Which data structure is used for breadth-first search (BFS)?",
+            "options": [
+                "Stack",
+                "Queue",
+                "Heap",
+                "Tree"
+            ],
+            "answer": "Queue"
+        },
+        {
+            "question": "What is the time complexity of accessing an element in an array?",
+            "options": [
+                "O(1)",
+                "O(log n)",
+                "O(n)",
+                "O(n^2)"
+            ],
+            "answer": "O(1)"
+        }
+    ]
+}

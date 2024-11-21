@@ -1,0 +1,94 @@
+{
+    "quiz_data": [
+        {
+            "question": "Which of the following is a type of database management system?",
+            "options": [
+                "Hierarchical",
+                "Network",
+                "Relational",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What does SQL stand for?",
+            "options": [
+                "Structured Query Language",
+                "Simple Query Language",
+                "Structured Question Language",
+                "None of the above"
+            ],
+            "answer": "Structured Query Language"
+        },
+        {
+            "question": "Which of the following is a valid SQL command?",
+            "options": [
+                "SELECT",
+                "INSERT",
+                "UPDATE",
+                "All of the above"
+            ],
+            "answer": "All of the above"
+        },
+        {
+            "question": "What is a primary key?",
+            "options": [
+                "A unique identifier for a record in a table",
+                "A key that is used to encrypt data",
+                "A key that is used to decrypt data",
+                "None of the above"
+            ],
+            "answer": "A unique identifier for a record in a table"
+        },
+        {
+            "question": "Which SQL statement is used to extract data from a database?",
+            "options": [
+                "GET",
+                "OPEN",
+                "EXTRACT",
+                "SELECT"
+            ],
+            "answer": "SELECT"
+        },
+        {
+            "question": "Which SQL keyword is used to sort the result-set?",
+            "options": [
+                "SORT",
+                "ORDER",
+                "ORDER BY",
+                "SORT BY"
+            ],
+            "answer": "ORDER BY"
+        },
+        {
+            "question": "Which of the following is not a type of SQL join?",
+            "options": [
+                "INNER JOIN",
+                "OUTER JOIN",
+                "LEFT JOIN",
+                "RIGHT JOIN"
+            ],
+            "answer": "OUTER JOIN"
+        },
+        {
+            "question": "What is a foreign key?",
+            "options": [
+                "A key used to unlock foreign databases",
+                "A key used to link two tables together",
+                "A key used to encrypt data",
+                "None of the above"
+            ],
+            "answer": "A key used to link two tables together"
+        },
+        {
+            "question": "Which of the following is a NoSQL database?",
+            "options": [
+                "MySQL",
+                "PostgreSQL",
+                "MongoDB",
+                "SQLite"
+            ],
+            "answer": "MongoDB"
+        }
+    ]
+}
